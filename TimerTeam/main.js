@@ -60,8 +60,8 @@ const clearTimer =(event) =>
     {
         if(start == false)
             {
-                
-                timer.innerHTML=0
+                x=0
+                timer.innerHTML=x
             }
        
         
