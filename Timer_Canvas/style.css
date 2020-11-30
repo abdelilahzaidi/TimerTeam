@@ -1,0 +1,20 @@
+main{
+    position: relative;
+    width: 300px;
+    height: 300px;
+    color: #2284b5;
+  }
+  
+  #progress{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    z-index: 20;
+    font-size: 42px;
+  }
+  input{
+      margin-left:150px;
+  }
